@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T10:40:23.341Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_HOLXeufWFaWpXcPYxfg" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:03:51.875Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="xFFHYc6VCR7xp15S-wg1" version="17.1.2" type="github">
   <diagram id="GcKFZ7WLj6Zq2DntmSmf" name="Page-1">
     <mxGraphModel dx="782" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-3" value="&lt;requirement&gt;&#xa;Interface Homme Machine" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="280" width="160" height="130" as="geometry" />
+        <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-3" value="&lt;requirement&gt;&#xa;Interface Homme Machine" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="280" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-4" value="Id=&quot;1&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="0TVfpTFZ-Kh1Pl5b9hsX-3" vertex="1">
-          <mxGeometry y="30" width="160" height="20" as="geometry" />
+          <mxGeometry y="40" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-5" value="Text=&quot;L&#39;Interface Homme&#xa;Machine doit pouvoir être&#xa;lisible pour un Homme donc&#xa;lire et contrôler les&#xa;informations aisément&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="0TVfpTFZ-Kh1Pl5b9hsX-3" vertex="1">
-          <mxGeometry y="50" width="160" height="80" as="geometry" />
+          <mxGeometry y="60" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-7" value="" style="endArrow=classic;html=1;sketch=0;rounded=0;dashed=1;exitX=1.008;exitY=0.422;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.01;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;endSize=6;startSize=6;" parent="1" source="0TVfpTFZ-Kh1Pl5b9hsX-9" target="0TVfpTFZ-Kh1Pl5b9hsX-5" edge="1">
+        <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-7" value="" style="endArrow=classic;html=1;sketch=0;rounded=0;dashed=1;exitX=1.008;exitY=0.422;exitDx=0;exitDy=0;exitPerimeter=0;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;endSize=6;startSize=6;" parent="1" source="0TVfpTFZ-Kh1Pl5b9hsX-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="69" as="sourcePoint" />
-            <mxPoint x="270" y="65" as="targetPoint" />
+            <mxPoint x="280" y="67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-8" value="&amp;lt;satisfy&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="0TVfpTFZ-Kh1Pl5b9hsX-7" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-9" value="&lt;block&gt;&#xa;Raspberry Pi" style="swimlane;startSize=30;" parent="1" vertex="1">
-          <mxGeometry y="35" width="120" height="55" as="geometry" />
+          <mxGeometry y="50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-21" value="" style="endArrow=circlePlus;html=1;rounded=0;sketch=0;align=left;endFill=0;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;endSize=6;startSize=6;spacing=2;" parent="1" edge="1">
+        <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-21" value="" style="endArrow=circlePlus;html=1;rounded=0;sketch=0;align=left;endFill=0;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;endSize=6;startSize=6;spacing=2;entryX=0.125;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="0TVfpTFZ-Kh1Pl5b9hsX-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="210" as="sourcePoint" />
             <mxPoint x="300" y="130" as="targetPoint" />
@@ -44,7 +44,7 @@
         <mxCell id="0TVfpTFZ-Kh1Pl5b9hsX-30" value="" style="endArrow=circlePlus;html=1;rounded=0;sketch=0;align=left;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="210" as="sourcePoint" />
-            <mxPoint x="420" y="130" as="targetPoint" />
+            <mxPoint x="420" y="140" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -66,14 +66,26 @@
         <mxCell id="fm92aokAC0OEjdpvMLSw-3" value="&amp;lt;refine&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fm92aokAC0OEjdpvMLSw-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fm92aokAC0OEjdpvMLSw-4" value="&lt;functionnalRequirement&gt;&#xa;Récuperer les données" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="430" width="200" height="100" as="geometry" />
+        <mxCell id="fm92aokAC0OEjdpvMLSw-4" value="&lt;functionnalRequirement&gt;&#xa;Récuperer les données" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fm92aokAC0OEjdpvMLSw-5" value="Id=&quot;2&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fm92aokAC0OEjdpvMLSw-4">
-          <mxGeometry y="30" width="200" height="20" as="geometry" />
+          <mxGeometry y="40" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fm92aokAC0OEjdpvMLSw-6" value="Text=&quot;Les données doivent être&#xa;récupérées des capteurs pour les&#xa;transmettre au système.&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fm92aokAC0OEjdpvMLSw-4">
-          <mxGeometry y="50" width="200" height="50" as="geometry" />
+          <mxGeometry y="60" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fm92aokAC0OEjdpvMLSw-8" value="&lt;usabilityRequirement&gt;&#xa;Changer l&#39;état de chaque installation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fm92aokAC0OEjdpvMLSw-9" value="Id=&quot;3&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fm92aokAC0OEjdpvMLSw-8">
+          <mxGeometry y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fm92aokAC0OEjdpvMLSw-10" value="Text=&quot;L&#39;utilisateur doit&#xa;pouvoir changer l&#39;état&#xa;de chaque installation, pour soit l&#39;allumer, soit l&#39;éteindre à partir d&#39;un seul bouton sur l&#39;IHM&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fm92aokAC0OEjdpvMLSw-8">
+          <mxGeometry y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fm92aokAC0OEjdpvMLSw-11" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fm92aokAC0OEjdpvMLSw-8">
+          <mxGeometry y="100" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
