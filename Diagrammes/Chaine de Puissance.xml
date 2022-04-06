@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T09:41:07.772Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="zzgKAYSgKgyIgJsoug9_" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T09:46:04.921Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="EzJEnHHt_nz4yMx2-jzL" version="17.4.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1914" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,8 +146,8 @@
             <mxPoint x="-40" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q80kt4R3KJh6owJiuSOr-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#007FFF;" parent="1" vertex="1">
-          <mxGeometry x="190" y="430" width="40" height="20" as="geometry" />
+        <mxCell id="Q80kt4R3KJh6owJiuSOr-4" value="&lt;font color=&quot;#ff0000&quot;&gt;Lumières éteintes&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Stores fermés&lt;/font&gt;&lt;br&gt;Chauffages éteints" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="135" y="390" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B-lbCPjp_3fnNJGQqD62-23" value="Interface Homme Machine (Python)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=16;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="397.5" width="150" height="112.5" as="geometry" />
@@ -185,9 +185,6 @@
             <mxPoint x="360" y="614.79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q80kt4R3KJh6owJiuSOr-25" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="730" width="180" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="sjUpfyWpHYJYWF_EOmAU-1" value="Réseau éléctrique&lt;br&gt;alternatif 230V 50Hz" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-985" y="595" width="120" height="30" as="geometry" />
         </mxCell>
@@ -199,6 +196,9 @@
         </mxCell>
         <mxCell id="sjUpfyWpHYJYWF_EOmAU-5" value="Variateur&lt;br&gt;Pompe à chaleur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-264" y="730" width="154" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sjUpfyWpHYJYWF_EOmAU-6" value="&lt;font color=&quot;#ff0000&quot;&gt;Lumières allumées&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Stores ouverts&lt;/font&gt;&lt;br&gt;Chauffages allumés" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="780" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
